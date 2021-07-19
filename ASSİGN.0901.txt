@@ -1,0 +1,6 @@
+x = "Esma"
+y = input((‘Please enter your name : ‘).title().strip())
+if x == y:
+    print("Hello, Esma! The password is : W@12",)
+else :
+    print( "Hello, {} See you later.".format(y))
